@@ -1,0 +1,26 @@
+{
+  "name": "@springrole/block-kit-builder",
+  "version": "0.0.1",
+  "description": "Block kit builder containing reusuable blocks to be used on any slack app",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "block-kit-builder"
+  ],
+  "author": "Avinash Ramesha <avinash.ramesha@springworks.in>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpringRole/block-kit-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SpringRole/block-kit-builder/issues"
+  },
+  "homepage": "https://github.com/SpringRole/block-kit-builder#readme",
+  "dependencies": {
+    "dayjs": "^1.10.7"
+  }
+}
