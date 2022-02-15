@@ -1,6 +1,6 @@
 {
   "name": "@springrole/block-kit-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Block kit builder containing reusuable blocks to be used on any slack app",
   "main": "./lib",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/SpringRole/block-kit-builder#readme",
   "dependencies": {
-    "dayjs": "^1.10.7"
+    "dayjs": "1.10.7",
+    "lodash": "4.17.21"
   }
 }
