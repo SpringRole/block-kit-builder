@@ -1,0 +1,1985 @@
+[{
+  "_id": 1,
+  "countryCode": "AD",
+  "zoneName": "Europe/Andorra"
+},{
+  "_id": 2,
+  "countryCode": "AE",
+  "zoneName": "Asia/Dubai"
+},{
+  "_id": 3,
+  "countryCode": "AF",
+  "zoneName": "Asia/Kabul"
+},{
+  "_id": 4,
+  "countryCode": "AG",
+  "zoneName": "America/Antigua"
+},{
+  "_id": 5,
+  "countryCode": "AI",
+  "zoneName": "America/Anguilla"
+},{
+  "_id": 6,
+  "countryCode": "AL",
+  "zoneName": "Europe/Tirane"
+},{
+  "_id": 7,
+  "countryCode": "AM",
+  "zoneName": "Asia/Yerevan"
+},{
+  "_id": 8,
+  "countryCode": "AO",
+  "zoneName": "Africa/Luanda"
+},{
+  "_id": 9,
+  "countryCode": "AQ",
+  "zoneName": "Antarctica/Casey"
+},{
+  "_id": 10,
+  "countryCode": "AQ",
+  "zoneName": "Antarctica/Davis"
+},{
+  "_id": 11,
+  "countryCode": "AQ",
+  "zoneName": "Antarctica/DumontDUrville"
+},{
+  "_id": 12,
+  "countryCode": "AQ",
+  "zoneName": "Antarctica/Mawson"
+},{
+  "_id": 13,
+  "countryCode": "AQ",
+  "zoneName": "Antarctica/McMurdo"
+},{
+  "_id": 14,
+  "countryCode": "AQ",
+  "zoneName": "Antarctica/Palmer"
+},{
+  "_id": 15,
+  "countryCode": "AQ",
+  "zoneName": "Antarctica/Rothera"
+},{
+  "_id": 16,
+  "countryCode": "AQ",
+  "zoneName": "Antarctica/Syowa"
+},{
+  "_id": 17,
+  "countryCode": "AQ",
+  "zoneName": "Antarctica/Troll"
+},{
+  "_id": 18,
+  "countryCode": "AQ",
+  "zoneName": "Antarctica/Vostok"
+},{
+  "_id": 19,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/Buenos_Aires",
+  "alternateName": [
+    "America/Buenos_Aires"
+  ]
+},{
+  "_id": 20,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/Catamarca",
+  "alternateName": [
+    "America/Argentina/ComodRivadavia",
+    "America/Catamarca"
+  ]
+},{
+  "_id": 21,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/Cordoba",
+  "alternateName": [
+    "America/Cordoba",
+    "America/Rosario"
+  ]
+},{
+  "_id": 22,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/Jujuy",
+  "alternateName": [
+    "America/Jujuy"
+  ]
+},{
+  "_id": 23,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/La_Rioja"
+},{
+  "_id": 24,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/Mendoza",
+  "alternateName": [
+    "America/Mendoza"
+  ]
+},{
+  "_id": 25,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/Rio_Gallegos"
+},{
+  "_id": 26,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/Salta"
+},{
+  "_id": 27,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/San_Juan"
+},{
+  "_id": 28,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/San_Luis"
+},{
+  "_id": 29,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/Tucuman"
+},{
+  "_id": 30,
+  "countryCode": "AR",
+  "zoneName": "America/Argentina/Ushuaia"
+},{
+  "_id": 31,
+  "countryCode": "AS",
+  "zoneName": "Pacific/Pago_Pago",
+  "alternateName": [
+    "Pacific/Samoa",
+    "US/Samoa"
+  ]
+},{
+  "_id": 32,
+  "countryCode": "AT",
+  "zoneName": "Europe/Vienna"
+},{
+  "_id": 33,
+  "countryCode": "AU",
+  "zoneName": "Antarctica/Macquarie"
+},{
+  "_id": 34,
+  "countryCode": "AU",
+  "zoneName": "Australia/Adelaide",
+  "alternateName": [
+    "Australia/South"
+  ]
+},{
+  "_id": 35,
+  "countryCode": "AU",
+  "zoneName": "Australia/Brisbane",
+  "alternateName": [
+    "Australia/Queensland"
+  ]
+},{
+  "_id": 36,
+  "countryCode": "AU",
+  "zoneName": "Australia/Broken_Hill",
+  "alternateName": [
+    "Australia/Yancowinna"
+  ]
+},{
+  "_id": 37,
+  "countryCode": "AU",
+  "zoneName": "Australia/Currie"
+},{
+  "_id": 38,
+  "countryCode": "AU",
+  "zoneName": "Australia/Darwin",
+  "alternateName": [
+    "Australia/North"
+  ]
+},{
+  "_id": 39,
+  "countryCode": "AU",
+  "zoneName": "Australia/Eucla"
+},{
+  "_id": 40,
+  "countryCode": "AU",
+  "zoneName": "Australia/Hobart",
+  "alternateName": [
+    "Australia/Tasmania"
+  ]
+},{
+  "_id": 41,
+  "countryCode": "AU",
+  "zoneName": "Australia/Lindeman"
+},{
+  "_id": 42,
+  "countryCode": "AU",
+  "zoneName": "Australia/Lord_Howe",
+  "alternateName": [
+    "Australia/LHI"
+  ]
+},{
+  "_id": 43,
+  "countryCode": "AU",
+  "zoneName": "Australia/Melbourne",
+  "alternateName": [
+    "Australia/Victoria"
+  ]
+},{
+  "_id": 44,
+  "countryCode": "AU",
+  "zoneName": "Australia/Perth",
+  "alternateName": [
+    "Australia/West"
+  ]
+},{
+  "_id": 45,
+  "countryCode": "AU",
+  "zoneName": "Australia/Sydney",
+  "alternateName": [
+    "Australia/ACT",
+    "Australia/Canberra",
+    "Australia/NSW"
+  ]
+},{
+  "_id": 46,
+  "countryCode": "AW",
+  "zoneName": "America/Aruba"
+},{
+  "_id": 47,
+  "countryCode": "AX",
+  "zoneName": "Europe/Mariehamn"
+},{
+  "_id": 48,
+  "countryCode": "AZ",
+  "zoneName": "Asia/Baku"
+},{
+  "_id": 49,
+  "countryCode": "BA",
+  "zoneName": "Europe/Sarajevo"
+},{
+  "_id": 50,
+  "countryCode": "BB",
+  "zoneName": "America/Barbados"
+},{
+  "_id": 51,
+  "countryCode": "BD",
+  "zoneName": "Asia/Dhaka",
+  "alternateName": [
+    "Asia/Dacca"
+  ]
+},{
+  "_id": 52,
+  "countryCode": "BE",
+  "zoneName": "Europe/Brussels"
+},{
+  "_id": 53,
+  "countryCode": "BF",
+  "zoneName": "Africa/Ouagadougou"
+},{
+  "_id": 54,
+  "countryCode": "BG",
+  "zoneName": "Europe/Sofia"
+},{
+  "_id": 55,
+  "countryCode": "BH",
+  "zoneName": "Asia/Bahrain"
+},{
+  "_id": 56,
+  "countryCode": "BI",
+  "zoneName": "Africa/Bujumbura"
+},{
+  "_id": 57,
+  "countryCode": "BJ",
+  "zoneName": "Africa/Porto-Novo"
+},{
+  "_id": 58,
+  "countryCode": "BL",
+  "zoneName": "America/St_Barthelemy"
+},{
+  "_id": 59,
+  "countryCode": "BM",
+  "zoneName": "Atlantic/Bermuda"
+},{
+  "_id": 60,
+  "countryCode": "BN",
+  "zoneName": "Asia/Brunei"
+},{
+  "_id": 61,
+  "countryCode": "BO",
+  "zoneName": "America/La_Paz"
+},{
+  "_id": 62,
+  "countryCode": "BQ",
+  "zoneName": "America/Kralendijk"
+},{
+  "_id": 63,
+  "countryCode": "BR",
+  "zoneName": "America/Araguaina"
+},{
+  "_id": 64,
+  "countryCode": "BR",
+  "zoneName": "America/Bahia"
+},{
+  "_id": 65,
+  "countryCode": "BR",
+  "zoneName": "America/Belem"
+},{
+  "_id": 66,
+  "countryCode": "BR",
+  "zoneName": "America/Boa_Vista"
+},{
+  "_id": 67,
+  "countryCode": "BR",
+  "zoneName": "America/Campo_Grande"
+},{
+  "_id": 68,
+  "countryCode": "BR",
+  "zoneName": "America/Cuiaba"
+},{
+  "_id": 69,
+  "countryCode": "BR",
+  "zoneName": "America/Eirunepe"
+},{
+  "_id": 70,
+  "countryCode": "BR",
+  "zoneName": "America/Fortaleza"
+},{
+  "_id": 71,
+  "countryCode": "BR",
+  "zoneName": "America/Maceio"
+},{
+  "_id": 72,
+  "countryCode": "BR",
+  "zoneName": "America/Manaus",
+  "alternateName": [
+    "Brazil/West"
+  ]
+},{
+  "_id": 73,
+  "countryCode": "BR",
+  "zoneName": "America/Noronha",
+  "alternateName": [
+    "Brazil/DeNoronha"
+  ]
+},{
+  "_id": 74,
+  "countryCode": "BR",
+  "zoneName": "America/Porto_Velho"
+},{
+  "_id": 75,
+  "countryCode": "BR",
+  "zoneName": "America/Recife"
+},{
+  "_id": 76,
+  "countryCode": "BR",
+  "zoneName": "America/Rio_Branco",
+  "alternateName": [
+    "America/Porto_Acre",
+    "Brazil/Acre"
+  ]
+},{
+  "_id": 77,
+  "countryCode": "BR",
+  "zoneName": "America/Santarem"
+},{
+  "_id": 78,
+  "countryCode": "BR",
+  "zoneName": "America/Sao_Paulo",
+  "alternateName": [
+    "Brazil/East"
+  ]
+},{
+  "_id": 79,
+  "countryCode": "BS",
+  "zoneName": "America/Nassau"
+},{
+  "_id": 80,
+  "countryCode": "BT",
+  "zoneName": "Asia/Thimphu",
+  "alternateName": [
+    "Asia/Thimbu"
+  ]
+},{
+  "_id": 81,
+  "countryCode": "BW",
+  "zoneName": "Africa/Gaborone"
+},{
+  "_id": 82,
+  "countryCode": "BY",
+  "zoneName": "Europe/Minsk"
+},{
+  "_id": 83,
+  "countryCode": "BZ",
+  "zoneName": "America/Belize"
+},{
+  "_id": 84,
+  "countryCode": "CA",
+  "zoneName": "America/Atikokan",
+  "alternateName": [
+    "America/Coral_Harbour"
+  ]
+},{
+  "_id": 85,
+  "countryCode": "CA",
+  "zoneName": "America/Blanc-Sablon"
+},{
+  "_id": 86,
+  "countryCode": "CA",
+  "zoneName": "America/Cambridge_Bay"
+},{
+  "_id": 87,
+  "countryCode": "CA",
+  "zoneName": "America/Creston"
+},{
+  "_id": 88,
+  "countryCode": "CA",
+  "zoneName": "America/Dawson"
+},{
+  "_id": 89,
+  "countryCode": "CA",
+  "zoneName": "America/Dawson_Creek"
+},{
+  "_id": 90,
+  "countryCode": "CA",
+  "zoneName": "America/Edmonton",
+  "alternateName": [
+    "Canada/Mountain"
+  ]
+},{
+  "_id": 91,
+  "countryCode": "CA",
+  "zoneName": "America/Fort_Nelson"
+},{
+  "_id": 92,
+  "countryCode": "CA",
+  "zoneName": "America/Glace_Bay"
+},{
+  "_id": 93,
+  "countryCode": "CA",
+  "zoneName": "America/Goose_Bay"
+},{
+  "_id": 94,
+  "countryCode": "CA",
+  "zoneName": "America/Halifax",
+  "alternateName": [
+    "Canada/Atlantic"
+  ]
+},{
+  "_id": 95,
+  "countryCode": "CA",
+  "zoneName": "America/Inuvik"
+},{
+  "_id": 96,
+  "countryCode": "CA",
+  "zoneName": "America/Iqaluit"
+},{
+  "_id": 97,
+  "countryCode": "CA",
+  "zoneName": "America/Moncton"
+},{
+  "_id": 98,
+  "countryCode": "CA",
+  "zoneName": "America/Nipigon"
+},{
+  "_id": 99,
+  "countryCode": "CA",
+  "zoneName": "America/Pangnirtung"
+},{
+  "_id": 100,
+  "countryCode": "CA",
+  "zoneName": "America/Rainy_River"
+},{
+  "_id": 101,
+  "countryCode": "CA",
+  "zoneName": "America/Rankin_Inlet"
+},{
+  "_id": 102,
+  "countryCode": "CA",
+  "zoneName": "America/Regina",
+  "alternateName": [
+    "Canada/Saskatchewan"
+  ]
+},{
+  "_id": 103,
+  "countryCode": "CA",
+  "zoneName": "America/Resolute"
+},{
+  "_id": 104,
+  "countryCode": "CA",
+  "zoneName": "America/St_Johns",
+  "alternateName": [
+    "Canada/Newfoundland"
+  ]
+},{
+  "_id": 105,
+  "countryCode": "CA",
+  "zoneName": "America/Swift_Current"
+},{
+  "_id": 106,
+  "countryCode": "CA",
+  "zoneName": "America/Thunder_Bay"
+},{
+  "_id": 107,
+  "countryCode": "CA",
+  "zoneName": "America/Toronto",
+  "alternateName": [
+    "America/Montreal",
+    "Canada/Eastern"
+  ]
+},{
+  "_id": 108,
+  "countryCode": "CA",
+  "zoneName": "America/Vancouver",
+  "alternateName": [
+    "Canada/Pacific"
+  ]
+},{
+  "_id": 109,
+  "countryCode": "CA",
+  "zoneName": "America/Whitehorse",
+  "alternateName": [
+    "Canada/Yukon"
+  ]
+},{
+  "_id": 110,
+  "countryCode": "CA",
+  "zoneName": "America/Winnipeg",
+  "alternateName": [
+    "Canada/Central"
+  ]
+},{
+  "_id": 111,
+  "countryCode": "CA",
+  "zoneName": "America/Yellowknife"
+},{
+  "_id": 112,
+  "countryCode": "CC",
+  "zoneName": "Indian/Cocos"
+},{
+  "_id": 113,
+  "countryCode": "CD",
+  "zoneName": "Africa/Kinshasa"
+},{
+  "_id": 114,
+  "countryCode": "CD",
+  "zoneName": "Africa/Lubumbashi"
+},{
+  "_id": 115,
+  "countryCode": "CF",
+  "zoneName": "Africa/Bangui"
+},{
+  "_id": 116,
+  "countryCode": "CG",
+  "zoneName": "Africa/Brazzaville"
+},{
+  "_id": 117,
+  "countryCode": "CH",
+  "zoneName": "Europe/Zurich"
+},{
+  "_id": 118,
+  "countryCode": "CI",
+  "zoneName": "Africa/Abidjan",
+  "alternateName": [
+    "Africa/Timbuktu"
+  ]
+},{
+  "_id": 119,
+  "countryCode": "CK",
+  "zoneName": "Pacific/Rarotonga"
+},{
+  "_id": 120,
+  "countryCode": "CL",
+  "zoneName": "America/Punta_Arenas"
+},{
+  "_id": 121,
+  "countryCode": "CL",
+  "zoneName": "America/Santiago",
+  "alternateName": [
+    "Chile/Continental"
+  ]
+},{
+  "_id": 122,
+  "countryCode": "CL",
+  "zoneName": "Pacific/Easter",
+  "alternateName": [
+    "Chile/EasterIsland"
+  ]
+},{
+  "_id": 123,
+  "countryCode": "CM",
+  "zoneName": "Africa/Douala"
+},{
+  "_id": 124,
+  "countryCode": "CN",
+  "zoneName": "Asia/Shanghai",
+  "alternateName": [
+    "Asia/Chongqing",
+    "Asia/Chungking",
+    "Asia/Harbin",
+    "PRC"
+  ]
+},{
+  "_id": 125,
+  "countryCode": "CN",
+  "zoneName": "Asia/Urumqi",
+  "alternateName": [
+    "Asia/Kashgar"
+  ]
+},{
+  "_id": 126,
+  "countryCode": "CO",
+  "zoneName": "America/Bogota"
+},{
+  "_id": 127,
+  "countryCode": "CR",
+  "zoneName": "America/Costa_Rica"
+},{
+  "_id": 128,
+  "countryCode": "CU",
+  "zoneName": "America/Havana",
+  "alternateName": [
+    "Cuba"
+  ]
+},{
+  "_id": 129,
+  "countryCode": "CV",
+  "zoneName": "Atlantic/Cape_Verde"
+},{
+  "_id": 130,
+  "countryCode": "CW",
+  "zoneName": "America/Curacao"
+},{
+  "_id": 131,
+  "countryCode": "CX",
+  "zoneName": "Indian/Christmas"
+},{
+  "_id": 132,
+  "countryCode": "CY",
+  "zoneName": "Asia/Famagusta"
+},{
+  "_id": 133,
+  "countryCode": "CY",
+  "zoneName": "Asia/Nicosia"
+},{
+  "_id": 134,
+  "countryCode": "CZ",
+  "zoneName": "Europe/Prague"
+},{
+  "_id": 135,
+  "countryCode": "DE",
+  "zoneName": "Europe/Berlin"
+},{
+  "_id": 136,
+  "countryCode": "DE",
+  "zoneName": "Europe/Busingen"
+},{
+  "_id": 137,
+  "countryCode": "DJ",
+  "zoneName": "Africa/Djibouti"
+},{
+  "_id": 138,
+  "countryCode": "DK",
+  "zoneName": "Europe/Copenhagen"
+},{
+  "_id": 139,
+  "countryCode": "DM",
+  "zoneName": "America/Dominica"
+},{
+  "_id": 140,
+  "countryCode": "DO",
+  "zoneName": "America/Santo_Domingo"
+},{
+  "_id": 141,
+  "countryCode": "DZ",
+  "zoneName": "Africa/Algiers"
+},{
+  "_id": 142,
+  "countryCode": "EC",
+  "zoneName": "America/Guayaquil"
+},{
+  "_id": 143,
+  "countryCode": "EC",
+  "zoneName": "Pacific/Galapagos"
+},{
+  "_id": 144,
+  "countryCode": "EE",
+  "zoneName": "Europe/Tallinn"
+},{
+  "_id": 145,
+  "countryCode": "EG",
+  "zoneName": "Africa/Cairo",
+  "alternateName": [
+    "Egypt"
+  ]
+},{
+  "_id": 146,
+  "countryCode": "EH",
+  "zoneName": "Africa/El_Aaiun"
+},{
+  "_id": 147,
+  "countryCode": "ER",
+  "zoneName": "Africa/Asmara",
+  "alternateName": [
+    "Africa/Asmera"
+  ]
+},{
+  "_id": 148,
+  "countryCode": "ES",
+  "zoneName": "Africa/Ceuta"
+},{
+  "_id": 149,
+  "countryCode": "ES",
+  "zoneName": "Atlantic/Canary"
+},{
+  "_id": 150,
+  "countryCode": "ES",
+  "zoneName": "Europe/Madrid"
+},{
+  "_id": 151,
+  "countryCode": "ET",
+  "zoneName": "Africa/Addis_Ababa"
+},{
+  "_id": 152,
+  "countryCode": "FI",
+  "zoneName": "Europe/Helsinki"
+},{
+  "_id": 153,
+  "countryCode": "FJ",
+  "zoneName": "Pacific/Fiji"
+},{
+  "_id": 154,
+  "countryCode": "FK",
+  "zoneName": "Atlantic/Stanley"
+},{
+  "_id": 155,
+  "countryCode": "FM",
+  "zoneName": "Pacific/Chuuk",
+  "alternateName": [
+    "Pacific/Truk",
+    "Pacific/Yap"
+  ]
+},{
+  "_id": 156,
+  "countryCode": "FM",
+  "zoneName": "Pacific/Kosrae"
+},{
+  "_id": 157,
+  "countryCode": "FM",
+  "zoneName": "Pacific/Pohnpei",
+  "alternateName": [
+    "Pacific/Ponape"
+  ]
+},{
+  "_id": 158,
+  "countryCode": "FO",
+  "zoneName": "Atlantic/Faroe",
+  "alternateName": [
+    "Atlantic/Faeroe"
+  ]
+},{
+  "_id": 159,
+  "countryCode": "FR",
+  "zoneName": "Europe/Paris"
+},{
+  "_id": 160,
+  "countryCode": "GA",
+  "zoneName": "Africa/Libreville"
+},{
+  "_id": 161,
+  "countryCode": "GB",
+  "zoneName": "Europe/London",
+  "alternateName": [
+    "Europe/Belfast",
+    "GB",
+    "GB-Eire"
+  ]
+},{
+  "_id": 162,
+  "countryCode": "GD",
+  "zoneName": "America/Grenada"
+},{
+  "_id": 163,
+  "countryCode": "GE",
+  "zoneName": "Asia/Tbilisi"
+},{
+  "_id": 164,
+  "countryCode": "GF",
+  "zoneName": "America/Cayenne"
+},{
+  "_id": 165,
+  "countryCode": "GG",
+  "zoneName": "Europe/Guernsey"
+},{
+  "_id": 166,
+  "countryCode": "GH",
+  "zoneName": "Africa/Accra"
+},{
+  "_id": 167,
+  "countryCode": "GI",
+  "zoneName": "Europe/Gibraltar"
+},{
+  "_id": 168,
+  "countryCode": "GL",
+  "zoneName": "America/Danmarkshavn"
+},{
+  "_id": 169,
+  "countryCode": "GL",
+  "zoneName": "America/Nuuk"
+},{
+  "_id": 170,
+  "countryCode": "GL",
+  "zoneName": "America/Scoresbysund"
+},{
+  "_id": 171,
+  "countryCode": "GL",
+  "zoneName": "America/Thule"
+},{
+  "_id": 172,
+  "countryCode": "GM",
+  "zoneName": "Africa/Banjul"
+},{
+  "_id": 173,
+  "countryCode": "GN",
+  "zoneName": "Africa/Conakry"
+},{
+  "_id": 174,
+  "countryCode": "GP",
+  "zoneName": "America/Guadeloupe"
+},{
+  "_id": 175,
+  "countryCode": "GQ",
+  "zoneName": "Africa/Malabo"
+},{
+  "_id": 176,
+  "countryCode": "GR",
+  "zoneName": "Europe/Athens"
+},{
+  "_id": 177,
+  "countryCode": "GS",
+  "zoneName": "Atlantic/South_Georgia"
+},{
+  "_id": 178,
+  "countryCode": "GT",
+  "zoneName": "America/Guatemala"
+},{
+  "_id": 179,
+  "countryCode": "GU",
+  "zoneName": "Pacific/Guam"
+},{
+  "_id": 180,
+  "countryCode": "GW",
+  "zoneName": "Africa/Bissau"
+},{
+  "_id": 181,
+  "countryCode": "GY",
+  "zoneName": "America/Guyana"
+},{
+  "_id": 182,
+  "countryCode": "HK",
+  "zoneName": "Asia/Hong_Kong",
+  "alternateName": [
+    "Hongkong"
+  ]
+},{
+  "_id": 183,
+  "countryCode": "HN",
+  "zoneName": "America/Tegucigalpa"
+},{
+  "_id": 184,
+  "countryCode": "HR",
+  "zoneName": "Europe/Zagreb"
+},{
+  "_id": 185,
+  "countryCode": "HT",
+  "zoneName": "America/Port-au-Prince"
+},{
+  "_id": 186,
+  "countryCode": "HU",
+  "zoneName": "Europe/Budapest"
+},{
+  "_id": 187,
+  "countryCode": "ID",
+  "zoneName": "Asia/Jakarta"
+},{
+  "_id": 188,
+  "countryCode": "ID",
+  "zoneName": "Asia/Jayapura"
+},{
+  "_id": 189,
+  "countryCode": "ID",
+  "zoneName": "Asia/Makassar",
+  "alternateName": [
+    "Asia/Ujung_Pandang"
+  ]
+},{
+  "_id": 190,
+  "countryCode": "ID",
+  "zoneName": "Asia/Pontianak"
+},{
+  "_id": 191,
+  "countryCode": "IE",
+  "zoneName": "Europe/Dublin",
+  "alternateName": [
+    "Eire"
+  ]
+},{
+  "_id": 192,
+  "countryCode": "IL",
+  "zoneName": "Asia/Jerusalem",
+  "alternateName": [
+    "Asia/Tel_Aviv",
+    "Israel"
+  ]
+},{
+  "_id": 193,
+  "countryCode": "IM",
+  "zoneName": "Europe/Isle_of_Man"
+},{
+  "_id": 194,
+  "countryCode": "IN",
+  "zoneName": "Asia/Kolkata",
+  "alternateName": [
+    "Asia/Calcutta"
+  ]
+},{
+  "_id": 195,
+  "countryCode": "IO",
+  "zoneName": "Indian/Chagos"
+},{
+  "_id": 196,
+  "countryCode": "IQ",
+  "zoneName": "Asia/Baghdad"
+},{
+  "_id": 197,
+  "countryCode": "IR",
+  "zoneName": "Asia/Tehran",
+  "alternateName": [
+    "Iran"
+  ]
+},{
+  "_id": 198,
+  "countryCode": "IS",
+  "zoneName": "Atlantic/Reykjavik",
+  "alternateName": [
+    "Iceland"
+  ]
+},{
+  "_id": 199,
+  "countryCode": "IT",
+  "zoneName": "Europe/Rome"
+},{
+  "_id": 200,
+  "countryCode": "JE",
+  "zoneName": "Europe/Jersey"
+},{
+  "_id": 201,
+  "countryCode": "JM",
+  "zoneName": "America/Jamaica",
+  "alternateName": [
+    "Jamaica"
+  ]
+},{
+  "_id": 202,
+  "countryCode": "JO",
+  "zoneName": "Asia/Amman"
+},{
+  "_id": 203,
+  "countryCode": "JP",
+  "zoneName": "Asia/Tokyo",
+  "alternateName": [
+    "Japan"
+  ]
+},{
+  "_id": 204,
+  "countryCode": "KE",
+  "zoneName": "Africa/Nairobi"
+},{
+  "_id": 205,
+  "countryCode": "KG",
+  "zoneName": "Asia/Bishkek"
+},{
+  "_id": 206,
+  "countryCode": "KH",
+  "zoneName": "Asia/Phnom_Penh"
+},{
+  "_id": 207,
+  "countryCode": "KI",
+  "zoneName": "Pacific/Enderbury"
+},{
+  "_id": 208,
+  "countryCode": "KI",
+  "zoneName": "Pacific/Kiritimati"
+},{
+  "_id": 209,
+  "countryCode": "KI",
+  "zoneName": "Pacific/Tarawa"
+},{
+  "_id": 210,
+  "countryCode": "KM",
+  "zoneName": "Indian/Comoro"
+},{
+  "_id": 211,
+  "countryCode": "KN",
+  "zoneName": "America/St_Kitts"
+},{
+  "_id": 212,
+  "countryCode": "KP",
+  "zoneName": "Asia/Pyongyang"
+},{
+  "_id": 213,
+  "countryCode": "KR",
+  "zoneName": "Asia/Seoul",
+  "alternateName": [
+    "ROK"
+  ]
+},{
+  "_id": 214,
+  "countryCode": "KW",
+  "zoneName": "Asia/Kuwait"
+},{
+  "_id": 215,
+  "countryCode": "KY",
+  "zoneName": "America/Cayman"
+},{
+  "_id": 216,
+  "countryCode": "KZ",
+  "zoneName": "Asia/Almaty"
+},{
+  "_id": 217,
+  "countryCode": "KZ",
+  "zoneName": "Asia/Aqtau"
+},{
+  "_id": 218,
+  "countryCode": "KZ",
+  "zoneName": "Asia/Aqtobe"
+},{
+  "_id": 219,
+  "countryCode": "KZ",
+  "zoneName": "Asia/Atyrau"
+},{
+  "_id": 220,
+  "countryCode": "KZ",
+  "zoneName": "Asia/Oral"
+},{
+  "_id": 221,
+  "countryCode": "KZ",
+  "zoneName": "Asia/Qostanay"
+},{
+  "_id": 222,
+  "countryCode": "KZ",
+  "zoneName": "Asia/Qyzylorda"
+},{
+  "_id": 223,
+  "countryCode": "LA",
+  "zoneName": "Asia/Vientiane"
+},{
+  "_id": 224,
+  "countryCode": "LB",
+  "zoneName": "Asia/Beirut"
+},{
+  "_id": 225,
+  "countryCode": "LC",
+  "zoneName": "America/St_Lucia"
+},{
+  "_id": 226,
+  "countryCode": "LI",
+  "zoneName": "Europe/Vaduz"
+},{
+  "_id": 227,
+  "countryCode": "LK",
+  "zoneName": "Asia/Colombo"
+},{
+  "_id": 228,
+  "countryCode": "LR",
+  "zoneName": "Africa/Monrovia"
+},{
+  "_id": 229,
+  "countryCode": "LS",
+  "zoneName": "Africa/Maseru"
+},{
+  "_id": 230,
+  "countryCode": "LT",
+  "zoneName": "Europe/Vilnius"
+},{
+  "_id": 231,
+  "countryCode": "LU",
+  "zoneName": "Europe/Luxembourg"
+},{
+  "_id": 232,
+  "countryCode": "LV",
+  "zoneName": "Europe/Riga"
+},{
+  "_id": 233,
+  "countryCode": "LY",
+  "zoneName": "Africa/Tripoli",
+  "alternateName": [
+    "Libya"
+  ]
+},{
+  "_id": 234,
+  "countryCode": "MA",
+  "zoneName": "Africa/Casablanca"
+},{
+  "_id": 235,
+  "countryCode": "MC",
+  "zoneName": "Europe/Monaco"
+},{
+  "_id": 236,
+  "countryCode": "MD",
+  "zoneName": "Europe/Chisinau",
+  "alternateName": [
+    "Europe/Tiraspol"
+  ]
+},{
+  "_id": 237,
+  "countryCode": "ME",
+  "zoneName": "Europe/Podgorica"
+},{
+  "_id": 238,
+  "countryCode": "MF",
+  "zoneName": "America/Marigot"
+},{
+  "_id": 239,
+  "countryCode": "MG",
+  "zoneName": "Indian/Antananarivo"
+},{
+  "_id": 240,
+  "countryCode": "MH",
+  "zoneName": "Pacific/Kwajalein",
+  "alternateName": [
+    "Kwajalein"
+  ]
+},{
+  "_id": 241,
+  "countryCode": "MH",
+  "zoneName": "Pacific/Majuro"
+},{
+  "_id": 242,
+  "countryCode": "MK",
+  "zoneName": "Europe/Skopje"
+},{
+  "_id": 243,
+  "countryCode": "ML",
+  "zoneName": "Africa/Bamako"
+},{
+  "_id": 244,
+  "countryCode": "MM",
+  "zoneName": "Asia/Yangon",
+  "alternateName": [
+    "Asia/Rangoon"
+  ]
+},{
+  "_id": 245,
+  "countryCode": "MN",
+  "zoneName": "Asia/Choibalsan"
+},{
+  "_id": 246,
+  "countryCode": "MN",
+  "zoneName": "Asia/Hovd"
+},{
+  "_id": 247,
+  "countryCode": "MN",
+  "zoneName": "Asia/Ulaanbaatar",
+  "alternateName": [
+    "Asia/Ulan_Bator"
+  ]
+},{
+  "_id": 248,
+  "countryCode": "MO",
+  "zoneName": "Asia/Macau",
+  "alternateName": [
+    "Asia/Macao"
+  ]
+},{
+  "_id": 249,
+  "countryCode": "MP",
+  "zoneName": "Pacific/Saipan"
+},{
+  "_id": 250,
+  "countryCode": "MQ",
+  "zoneName": "America/Martinique"
+},{
+  "_id": 251,
+  "countryCode": "MR",
+  "zoneName": "Africa/Nouakchott"
+},{
+  "_id": 252,
+  "countryCode": "MS",
+  "zoneName": "America/Montserrat"
+},{
+  "_id": 253,
+  "countryCode": "MT",
+  "zoneName": "Europe/Malta"
+},{
+  "_id": 254,
+  "countryCode": "MU",
+  "zoneName": "Indian/Mauritius"
+},{
+  "_id": 255,
+  "countryCode": "MV",
+  "zoneName": "Indian/Maldives"
+},{
+  "_id": 256,
+  "countryCode": "MW",
+  "zoneName": "Africa/Blantyre"
+},{
+  "_id": 257,
+  "countryCode": "MX",
+  "zoneName": "America/Bahia_Banderas"
+},{
+  "_id": 258,
+  "countryCode": "MX",
+  "zoneName": "America/Cancun"
+},{
+  "_id": 259,
+  "countryCode": "MX",
+  "zoneName": "America/Chihuahua"
+},{
+  "_id": 260,
+  "countryCode": "MX",
+  "zoneName": "America/Hermosillo"
+},{
+  "_id": 261,
+  "countryCode": "MX",
+  "zoneName": "America/Matamoros"
+},{
+  "_id": 262,
+  "countryCode": "MX",
+  "zoneName": "America/Mazatlan",
+  "alternateName": [
+    "Mexico/BajaSur"
+  ]
+},{
+  "_id": 263,
+  "countryCode": "MX",
+  "zoneName": "America/Merida"
+},{
+  "_id": 264,
+  "countryCode": "MX",
+  "zoneName": "America/Mexico_City",
+  "alternateName": [
+    "Mexico/General"
+  ]
+},{
+  "_id": 265,
+  "countryCode": "MX",
+  "zoneName": "America/Monterrey"
+},{
+  "_id": 266,
+  "countryCode": "MX",
+  "zoneName": "America/Ojinaga"
+},{
+  "_id": 267,
+  "countryCode": "MX",
+  "zoneName": "America/Tijuana",
+  "alternateName": [
+    "America/Ensenada",
+    "America/Santa_Isabel",
+    "Mexico/BajaNorte"
+  ]
+},{
+  "_id": 268,
+  "countryCode": "MY",
+  "zoneName": "Asia/Kuala_Lumpur"
+},{
+  "_id": 269,
+  "countryCode": "MY",
+  "zoneName": "Asia/Kuching"
+},{
+  "_id": 270,
+  "countryCode": "MZ",
+  "zoneName": "Africa/Maputo"
+},{
+  "_id": 271,
+  "countryCode": "NA",
+  "zoneName": "Africa/Windhoek"
+},{
+  "_id": 272,
+  "countryCode": "NC",
+  "zoneName": "Pacific/Noumea"
+},{
+  "_id": 273,
+  "countryCode": "NE",
+  "zoneName": "Africa/Niamey"
+},{
+  "_id": 274,
+  "countryCode": "NF",
+  "zoneName": "Pacific/Norfolk"
+},{
+  "_id": 275,
+  "countryCode": "NG",
+  "zoneName": "Africa/Lagos"
+},{
+  "_id": 276,
+  "countryCode": "NI",
+  "zoneName": "America/Managua"
+},{
+  "_id": 277,
+  "countryCode": "NL",
+  "zoneName": "Europe/Amsterdam"
+},{
+  "_id": 278,
+  "countryCode": "NO",
+  "zoneName": "Europe/Oslo",
+  "alternateName": [
+    "Atlantic/Jan_Mayen"
+  ]
+},{
+  "_id": 279,
+  "countryCode": "NP",
+  "zoneName": "Asia/Kathmandu",
+  "alternateName": [
+    "Asia/Katmandu"
+  ]
+},{
+  "_id": 280,
+  "countryCode": "NR",
+  "zoneName": "Pacific/Nauru"
+},{
+  "_id": 281,
+  "countryCode": "NU",
+  "zoneName": "Pacific/Niue"
+},{
+  "_id": 282,
+  "countryCode": "NZ",
+  "zoneName": "Pacific/Auckland",
+  "alternateName": [
+    "Antarctica/South_Pole",
+    "NZ"
+  ]
+},{
+  "_id": 283,
+  "countryCode": "NZ",
+  "zoneName": "Pacific/Chatham",
+  "alternateName": [
+    "NZ-CHAT"
+  ]
+},{
+  "_id": 284,
+  "countryCode": "OM",
+  "zoneName": "Asia/Muscat"
+},{
+  "_id": 285,
+  "countryCode": "PA",
+  "zoneName": "America/Panama"
+},{
+  "_id": 286,
+  "countryCode": "PE",
+  "zoneName": "America/Lima"
+},{
+  "_id": 287,
+  "countryCode": "PF",
+  "zoneName": "Pacific/Gambier"
+},{
+  "_id": 288,
+  "countryCode": "PF",
+  "zoneName": "Pacific/Marquesas"
+},{
+  "_id": 289,
+  "countryCode": "PF",
+  "zoneName": "Pacific/Tahiti"
+},{
+  "_id": 290,
+  "countryCode": "PG",
+  "zoneName": "Pacific/Bougainville"
+},{
+  "_id": 291,
+  "countryCode": "PG",
+  "zoneName": "Pacific/Port_Moresby"
+},{
+  "_id": 292,
+  "countryCode": "PH",
+  "zoneName": "Asia/Manila"
+},{
+  "_id": 293,
+  "countryCode": "PK",
+  "zoneName": "Asia/Karachi"
+},{
+  "_id": 294,
+  "countryCode": "PL",
+  "zoneName": "Europe/Warsaw",
+  "alternateName": [
+    "Poland"
+  ]
+},{
+  "_id": 295,
+  "countryCode": "PM",
+  "zoneName": "America/Miquelon"
+},{
+  "_id": 296,
+  "countryCode": "PN",
+  "zoneName": "Pacific/Pitcairn"
+},{
+  "_id": 297,
+  "countryCode": "PR",
+  "zoneName": "America/Puerto_Rico"
+},{
+  "_id": 298,
+  "countryCode": "PS",
+  "zoneName": "Asia/Gaza"
+},{
+  "_id": 299,
+  "countryCode": "PS",
+  "zoneName": "Asia/Hebron"
+},{
+  "_id": 300,
+  "countryCode": "PT",
+  "zoneName": "Atlantic/Azores"
+},{
+  "_id": 301,
+  "countryCode": "PT",
+  "zoneName": "Atlantic/Madeira"
+},{
+  "_id": 302,
+  "countryCode": "PT",
+  "zoneName": "Europe/Lisbon",
+  "alternateName": [
+    "Portugal"
+  ]
+},{
+  "_id": 303,
+  "countryCode": "PW",
+  "zoneName": "Pacific/Palau"
+},{
+  "_id": 304,
+  "countryCode": "PY",
+  "zoneName": "America/Asuncion"
+},{
+  "_id": 305,
+  "countryCode": "QA",
+  "zoneName": "Asia/Qatar"
+},{
+  "_id": 306,
+  "countryCode": "RE",
+  "zoneName": "Indian/Reunion"
+},{
+  "_id": 307,
+  "countryCode": "RO",
+  "zoneName": "Europe/Bucharest"
+},{
+  "_id": 308,
+  "countryCode": "RS",
+  "zoneName": "Europe/Belgrade"
+},{
+  "_id": 309,
+  "countryCode": "RU",
+  "zoneName": "Asia/Anadyr"
+},{
+  "_id": 310,
+  "countryCode": "RU",
+  "zoneName": "Asia/Barnaul"
+},{
+  "_id": 311,
+  "countryCode": "RU",
+  "zoneName": "Asia/Chita"
+},{
+  "_id": 312,
+  "countryCode": "RU",
+  "zoneName": "Asia/Irkutsk"
+},{
+  "_id": 313,
+  "countryCode": "RU",
+  "zoneName": "Asia/Kamchatka"
+},{
+  "_id": 314,
+  "countryCode": "RU",
+  "zoneName": "Asia/Khandyga"
+},{
+  "_id": 315,
+  "countryCode": "RU",
+  "zoneName": "Asia/Krasnoyarsk"
+},{
+  "_id": 316,
+  "countryCode": "RU",
+  "zoneName": "Asia/Magadan"
+},{
+  "_id": 317,
+  "countryCode": "RU",
+  "zoneName": "Asia/Novokuznetsk"
+},{
+  "_id": 318,
+  "countryCode": "RU",
+  "zoneName": "Asia/Novosibirsk"
+},{
+  "_id": 319,
+  "countryCode": "RU",
+  "zoneName": "Asia/Omsk"
+},{
+  "_id": 320,
+  "countryCode": "RU",
+  "zoneName": "Asia/Sakhalin"
+},{
+  "_id": 321,
+  "countryCode": "RU",
+  "zoneName": "Asia/Srednekolymsk"
+},{
+  "_id": 322,
+  "countryCode": "RU",
+  "zoneName": "Asia/Tomsk"
+},{
+  "_id": 323,
+  "countryCode": "RU",
+  "zoneName": "Asia/Ust-Nera"
+},{
+  "_id": 324,
+  "countryCode": "RU",
+  "zoneName": "Asia/Vladivostok"
+},{
+  "_id": 325,
+  "countryCode": "RU",
+  "zoneName": "Asia/Yakutsk"
+},{
+  "_id": 326,
+  "countryCode": "RU",
+  "zoneName": "Asia/Yekaterinburg"
+},{
+  "_id": 327,
+  "countryCode": "RU",
+  "zoneName": "Europe/Astrakhan"
+},{
+  "_id": 328,
+  "countryCode": "RU",
+  "zoneName": "Europe/Kaliningrad"
+},{
+  "_id": 329,
+  "countryCode": "RU",
+  "zoneName": "Europe/Kirov"
+},{
+  "_id": 330,
+  "countryCode": "RU",
+  "zoneName": "Europe/Moscow",
+  "alternateName": [
+    "W-SU"
+  ]
+},{
+  "_id": 331,
+  "countryCode": "RU",
+  "zoneName": "Europe/Samara"
+},{
+  "_id": 332,
+  "countryCode": "RU",
+  "zoneName": "Europe/Saratov"
+},{
+  "_id": 333,
+  "countryCode": "RU",
+  "zoneName": "Europe/Ulyanovsk"
+},{
+  "_id": 334,
+  "countryCode": "RU",
+  "zoneName": "Europe/Volgograd"
+},{
+  "_id": 335,
+  "countryCode": "RW",
+  "zoneName": "Africa/Kigali"
+},{
+  "_id": 336,
+  "countryCode": "SA",
+  "zoneName": "Asia/Riyadh"
+},{
+  "_id": 337,
+  "countryCode": "SB",
+  "zoneName": "Pacific/Guadalcanal"
+},{
+  "_id": 338,
+  "countryCode": "SC",
+  "zoneName": "Indian/Mahe"
+},{
+  "_id": 339,
+  "countryCode": "SD",
+  "zoneName": "Africa/Khartoum"
+},{
+  "_id": 340,
+  "countryCode": "SE",
+  "zoneName": "Europe/Stockholm"
+},{
+  "_id": 341,
+  "countryCode": "SG",
+  "zoneName": "Asia/Singapore",
+  "alternateName": [
+    "Singapore"
+  ]
+},{
+  "_id": 342,
+  "countryCode": "SH",
+  "zoneName": "Atlantic/St_Helena"
+},{
+  "_id": 343,
+  "countryCode": "SI",
+  "zoneName": "Europe/Ljubljana"
+},{
+  "_id": 344,
+  "countryCode": "SJ",
+  "zoneName": "Arctic/Longyearbyen"
+},{
+  "_id": 345,
+  "countryCode": "SK",
+  "zoneName": "Europe/Bratislava"
+},{
+  "_id": 346,
+  "countryCode": "SL",
+  "zoneName": "Africa/Freetown"
+},{
+  "_id": 347,
+  "countryCode": "SM",
+  "zoneName": "Europe/San_Marino"
+},{
+  "_id": 348,
+  "countryCode": "SN",
+  "zoneName": "Africa/Dakar"
+},{
+  "_id": 349,
+  "countryCode": "SO",
+  "zoneName": "Africa/Mogadishu"
+},{
+  "_id": 350,
+  "countryCode": "SR",
+  "zoneName": "America/Paramaribo"
+},{
+  "_id": 351,
+  "countryCode": "SS",
+  "zoneName": "Africa/Juba"
+},{
+  "_id": 352,
+  "countryCode": "ST",
+  "zoneName": "Africa/Sao_Tome"
+},{
+  "_id": 353,
+  "countryCode": "SV",
+  "zoneName": "America/El_Salvador"
+},{
+  "_id": 354,
+  "countryCode": "SX",
+  "zoneName": "America/Lower_Princes"
+},{
+  "_id": 355,
+  "countryCode": "SY",
+  "zoneName": "Asia/Damascus"
+},{
+  "_id": 356,
+  "countryCode": "SZ",
+  "zoneName": "Africa/Mbabane"
+},{
+  "_id": 357,
+  "countryCode": "TC",
+  "zoneName": "America/Grand_Turk"
+},{
+  "_id": 358,
+  "countryCode": "TD",
+  "zoneName": "Africa/Ndjamena"
+},{
+  "_id": 359,
+  "countryCode": "TF",
+  "zoneName": "Indian/Kerguelen"
+},{
+  "_id": 360,
+  "countryCode": "TG",
+  "zoneName": "Africa/Lome"
+},{
+  "_id": 361,
+  "countryCode": "TH",
+  "zoneName": "Asia/Bangkok"
+},{
+  "_id": 362,
+  "countryCode": "TJ",
+  "zoneName": "Asia/Dushanbe"
+},{
+  "_id": 363,
+  "countryCode": "TK",
+  "zoneName": "Pacific/Fakaofo"
+},{
+  "_id": 364,
+  "countryCode": "TL",
+  "zoneName": "Asia/Dili"
+},{
+  "_id": 365,
+  "countryCode": "TM",
+  "zoneName": "Asia/Ashgabat",
+  "alternateName": [
+    "Asia/Ashkhabad"
+  ]
+},{
+  "_id": 366,
+  "countryCode": "TN",
+  "zoneName": "Africa/Tunis"
+},{
+  "_id": 367,
+  "countryCode": "TO",
+  "zoneName": "Pacific/Tongatapu"
+},{
+  "_id": 368,
+  "countryCode": "TR",
+  "zoneName": "Europe/Istanbul",
+  "alternateName": [
+    "Asia/Istanbul",
+    "Turkey"
+  ]
+},{
+  "_id": 369,
+  "countryCode": "TT",
+  "zoneName": "America/Port_of_Spain",
+  "alternateName": [
+    "America/Virgin"
+  ]
+},{
+  "_id": 370,
+  "countryCode": "TV",
+  "zoneName": "Pacific/Funafuti"
+},{
+  "_id": 371,
+  "countryCode": "TW",
+  "zoneName": "Asia/Taipei",
+  "alternateName": [
+    "ROC"
+  ]
+},{
+  "_id": 372,
+  "countryCode": "TZ",
+  "zoneName": "Africa/Dar_es_Salaam"
+},{
+  "_id": 373,
+  "countryCode": "UA",
+  "zoneName": "Europe/Kiev"
+},{
+  "_id": 374,
+  "countryCode": "UA",
+  "zoneName": "Europe/Simferopol"
+},{
+  "_id": 375,
+  "countryCode": "UA",
+  "zoneName": "Europe/Uzhgorod"
+},{
+  "_id": 376,
+  "countryCode": "UA",
+  "zoneName": "Europe/Zaporozhye"
+},{
+  "_id": 377,
+  "countryCode": "UG",
+  "zoneName": "Africa/Kampala"
+},{
+  "_id": 378,
+  "countryCode": "UM",
+  "zoneName": "Pacific/Midway"
+},{
+  "_id": 379,
+  "countryCode": "UM",
+  "zoneName": "Pacific/Wake"
+},{
+  "_id": 380,
+  "countryCode": "US",
+  "zoneName": "America/Adak",
+  "alternateName": [
+    "America/Atka",
+    "US/Aleutian"
+  ]
+},{
+  "_id": 381,
+  "countryCode": "US",
+  "zoneName": "America/Anchorage",
+  "alternateName": [
+    "US/Alaska"
+  ]
+},{
+  "_id": 382,
+  "countryCode": "US",
+  "zoneName": "America/Boise"
+},{
+  "_id": 383,
+  "countryCode": "US",
+  "zoneName": "America/Chicago",
+  "alternateName": [
+    "US/Central"
+  ]
+},{
+  "_id": 384,
+  "countryCode": "US",
+  "zoneName": "America/Denver",
+  "alternateName": [
+    "America/Shiprock",
+    "Navajo",
+    "US/Mountain"
+  ]
+},{
+  "_id": 385,
+  "countryCode": "US",
+  "zoneName": "America/Detroit",
+  "alternateName": [
+    "US/Michigan"
+  ]
+},{
+  "_id": 386,
+  "countryCode": "US",
+  "zoneName": "America/Indiana/Indianapolis",
+  "alternateName": [
+    "America/Fort_Wayne",
+    "America/Indianapolis",
+    "US/East-Indiana"
+  ]
+},{
+  "_id": 387,
+  "countryCode": "US",
+  "zoneName": "America/Indiana/Knox",
+  "alternateName": [
+    "America/Knox_IN",
+    "US/Indiana-Starke"
+  ]
+},{
+  "_id": 388,
+  "countryCode": "US",
+  "zoneName": "America/Indiana/Marengo"
+},{
+  "_id": 389,
+  "countryCode": "US",
+  "zoneName": "America/Indiana/Petersburg"
+},{
+  "_id": 390,
+  "countryCode": "US",
+  "zoneName": "America/Indiana/Tell_City"
+},{
+  "_id": 391,
+  "countryCode": "US",
+  "zoneName": "America/Indiana/Vevay"
+},{
+  "_id": 392,
+  "countryCode": "US",
+  "zoneName": "America/Indiana/Vincennes"
+},{
+  "_id": 393,
+  "countryCode": "US",
+  "zoneName": "America/Indiana/Winamac"
+},{
+  "_id": 394,
+  "countryCode": "US",
+  "zoneName": "America/Juneau"
+},{
+  "_id": 395,
+  "countryCode": "US",
+  "zoneName": "America/Kentucky/Louisville",
+  "alternateName": [
+    "America/Louisville"
+  ]
+},{
+  "_id": 396,
+  "countryCode": "US",
+  "zoneName": "America/Kentucky/Monticello"
+},{
+  "_id": 397,
+  "countryCode": "US",
+  "zoneName": "America/Los_Angeles",
+  "alternateName": [
+    "US/Pacific",
+    "US/Pacific-New"
+  ]
+},{
+  "_id": 398,
+  "countryCode": "US",
+  "zoneName": "America/Menominee"
+},{
+  "_id": 399,
+  "countryCode": "US",
+  "zoneName": "America/Metlakatla"
+},{
+  "_id": 400,
+  "countryCode": "US",
+  "zoneName": "America/New_York",
+  "alternateName": [
+    "US/Eastern"
+  ]
+},{
+  "_id": 401,
+  "countryCode": "US",
+  "zoneName": "America/Nome"
+},{
+  "_id": 402,
+  "countryCode": "US",
+  "zoneName": "America/North_Dakota/Beulah"
+},{
+  "_id": 403,
+  "countryCode": "US",
+  "zoneName": "America/North_Dakota/Center"
+},{
+  "_id": 404,
+  "countryCode": "US",
+  "zoneName": "America/North_Dakota/New_Salem"
+},{
+  "_id": 405,
+  "countryCode": "US",
+  "zoneName": "America/Phoenix",
+  "alternateName": [
+    "US/Arizona"
+  ]
+},{
+  "_id": 406,
+  "countryCode": "US",
+  "zoneName": "America/Sitka"
+},{
+  "_id": 407,
+  "countryCode": "US",
+  "zoneName": "America/Yakutat"
+},{
+  "_id": 408,
+  "countryCode": "US",
+  "zoneName": "Pacific/Honolulu",
+  "alternateName": [
+    "Pacific/Johnston",
+    "US/Hawaii"
+  ]
+},{
+  "_id": 409,
+  "countryCode": "UY",
+  "zoneName": "America/Montevideo"
+},{
+  "_id": 410,
+  "countryCode": "UZ",
+  "zoneName": "Asia/Samarkand"
+},{
+  "_id": 411,
+  "countryCode": "UZ",
+  "zoneName": "Asia/Tashkent"
+},{
+  "_id": 412,
+  "countryCode": "VA",
+  "zoneName": "Europe/Vatican"
+},{
+  "_id": 413,
+  "countryCode": "VC",
+  "zoneName": "America/St_Vincent"
+},{
+  "_id": 414,
+  "countryCode": "VE",
+  "zoneName": "America/Caracas"
+},{
+  "_id": 415,
+  "countryCode": "VG",
+  "zoneName": "America/Tortola"
+},{
+  "_id": 416,
+  "countryCode": "VI",
+  "zoneName": "America/St_Thomas"
+},{
+  "_id": 417,
+  "countryCode": "VN",
+  "zoneName": "Asia/Ho_Chi_Minh",
+  "alternateName": [
+    "Asia/Saigon"
+  ]
+},{
+  "_id": 418,
+  "countryCode": "VU",
+  "zoneName": "Pacific/Efate"
+},{
+  "_id": 419,
+  "countryCode": "WF",
+  "zoneName": "Pacific/Wallis"
+},{
+  "_id": 420,
+  "countryCode": "WS",
+  "zoneName": "Pacific/Apia"
+},{
+  "_id": 421,
+  "countryCode": "YE",
+  "zoneName": "Asia/Aden"
+},{
+  "_id": 422,
+  "countryCode": "YT",
+  "zoneName": "Indian/Mayotte"
+},{
+  "_id": 423,
+  "countryCode": "ZA",
+  "zoneName": "Africa/Johannesburg"
+},{
+  "_id": 424,
+  "countryCode": "ZM",
+  "zoneName": "Africa/Lusaka"
+},{
+  "_id": 425,
+  "countryCode": "ZW",
+  "zoneName": "Africa/Harare"
+}]
