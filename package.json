@@ -1,6 +1,6 @@
 {
   "name": "@springrole/block-kit-builder",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Block kit builder containing re-usable blocks to be used on any slack app",
   "main": "./lib",
   "scripts": {
