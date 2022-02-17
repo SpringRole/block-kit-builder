@@ -1,7 +1,7 @@
 {
   "name": "@springrole/block-kit-builder",
-  "version": "0.0.7",
-  "description": "Block kit builder containing reusuable blocks to be used on any slack app",
+  "version": "0.0.8",
+  "description": "Block kit builder containing re-usable blocks to be used on any slack app",
   "main": "./lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
