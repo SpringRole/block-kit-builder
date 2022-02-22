@@ -1,7 +1,5 @@
 # @springrole/block-kit-builder
 
----
-
 ## Getting started
 
 This is a simple package that can be used to create the blocks and views required to interact with users on any Slack surface. This is based on Slack's own [Block Kit Builder](https://app.slack.com/block-kit-builder/).
