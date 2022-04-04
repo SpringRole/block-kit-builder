@@ -1,10 +1,11 @@
 {
   "name": "@springrole/block-kit-builder",
-  "version": "0.0.5",
+  "version": "0.0.0-semantic-release",
   "description": "Block kit builder containing re-usable blocks to be used on any slack app",
   "main": "./lib",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "keywords": [
     "slack",
@@ -28,6 +29,9 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-conventional": "^16.2.1",
+    "husky": "^7.0.4",
     "prettier": "^2.5.1"
   }
 }
