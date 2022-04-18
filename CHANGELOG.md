@@ -1,3 +1,10 @@
+## [0.0.8](https://github.com/SpringRole/block-kit-builder/compare/v0.0.7...v0.0.8) (2022-04-18)
+
+
+### Bug Fixes
+
+* release.yml fixed ([b2c8826](https://github.com/SpringRole/block-kit-builder/commit/b2c882629e3e6ff5885c740d9639956820a5bb6e))
+
 ## [0.0.7](https://github.com/SpringRole/block-kit-builder/compare/v0.0.6...v0.0.7) (2022-04-04)
 
 
