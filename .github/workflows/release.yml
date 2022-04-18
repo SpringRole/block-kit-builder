@@ -16,7 +16,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 14.x
-      - name: Install semantic-release required plugins
+      - name: Install required plugins for semantic-release
         run: npm install --save-dev @semantic-release/changelog @semantic-release/git husky
       - name: Release
         env:
