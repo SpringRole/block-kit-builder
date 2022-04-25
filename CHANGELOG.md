@@ -1,3 +1,10 @@
+## [0.0.11](https://github.com/SpringRole/block-kit-builder/compare/v0.0.10...v0.0.11) (2022-04-25)
+
+
+### Bug Fixes
+
+* added default value ([6688775](https://github.com/SpringRole/block-kit-builder/commit/66887757874156001671834c72e8dacf17b3d4a9))
+
 ## [0.0.10](https://github.com/SpringRole/block-kit-builder/compare/v0.0.9...v0.0.10) (2022-04-25)
 
 
