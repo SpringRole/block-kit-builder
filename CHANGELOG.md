@@ -1,3 +1,10 @@
+## [0.0.9](https://github.com/SpringRole/block-kit-builder/compare/v0.0.8...v0.0.9) (2022-04-25)
+
+
+### Bug Fixes
+
+* added user select and static select to be used in actions block ([1388d1a](https://github.com/SpringRole/block-kit-builder/commit/1388d1a1ce8852c62d8bf942e991f2d20cff10ba))
+
 ## [0.0.8](https://github.com/SpringRole/block-kit-builder/compare/v0.0.7...v0.0.8) (2022-04-18)
 
 
