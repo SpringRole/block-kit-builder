@@ -1,3 +1,10 @@
+## [0.0.10](https://github.com/SpringRole/block-kit-builder/compare/v0.0.9...v0.0.10) (2022-04-25)
+
+
+### Bug Fixes
+
+* added options to element ([25ee941](https://github.com/SpringRole/block-kit-builder/commit/25ee941956b32816f47d0011bc1e5b05f5d983f6))
+
 ## [0.0.9](https://github.com/SpringRole/block-kit-builder/compare/v0.0.8...v0.0.9) (2022-04-25)
 
 
