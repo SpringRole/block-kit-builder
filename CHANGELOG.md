@@ -1,3 +1,10 @@
+## [0.0.12](https://github.com/SpringRole/block-kit-builder/compare/v0.0.11...v0.0.12) (2022-04-26)
+
+
+### Bug Fixes
+
+* fixing radioSelect options ([#3](https://github.com/SpringRole/block-kit-builder/issues/3)) ([a94611d](https://github.com/SpringRole/block-kit-builder/commit/a94611d2da1eb4bfdde59da52106a75833383695))
+
 ## [0.0.11](https://github.com/SpringRole/block-kit-builder/compare/v0.0.10...v0.0.11) (2022-04-25)
 
 
