@@ -1,3 +1,10 @@
+## [0.0.13](https://github.com/SpringRole/block-kit-builder/compare/v0.0.12...v0.0.13) (2022-04-28)
+
+
+### Bug Fixes
+
+* fixing overflow accessory to take urls ([#5](https://github.com/SpringRole/block-kit-builder/issues/5)) ([bbd7e2a](https://github.com/SpringRole/block-kit-builder/commit/bbd7e2ac7a5672e1c6e766b366b6b54d4ff12e82))
+
 ## [0.0.12](https://github.com/SpringRole/block-kit-builder/compare/v0.0.11...v0.0.12) (2022-04-26)
 
 
